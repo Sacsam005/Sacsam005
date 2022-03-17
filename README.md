@@ -61,7 +61,7 @@
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&theme=blue-green" alt="sacsam005" width='450' height='300'></p>
  
 <h3 align='center'>Keep Supporting 🤜🏻🤛🏻</h3>
-<p align='center'><img src='https://github-profile-trophy.vercel.app/?username=Sacsam005&theme=onedark&column=10'></p>
+<p align='center'><img src='https://github-profile-trophy.vercel.app/?username=Sacsam005&theme=onedark&column=8'></p>
 
 <h3 align="center">Snake eating contribution graph 🐍 </h3>
 <p align='center'><img src='https://raw.githubusercontent.com/Sacsam005/Sacsam005/output/github-contribution-grid-snake.gif'></p>
