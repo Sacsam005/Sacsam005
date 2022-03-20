@@ -1,7 +1,7 @@
 <h1 align="center">Hi guys👋 I'm Sachin</h1>
 <p align='center'><img src ='https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png' width='150' height='150'></p>
 
-<h4 align="center">I'm a Front-end developer/Engineer. I'm passionate towards FED. !!!</h3>
+<h4 align="center">I'm a Front-end developer/Engineer. I'm passionate towards FED !!!</h3>
 <div class='flex-box'>
 <img src="https://github.com/Sacsam005/Sacsam005/blob/main/profile.gif?raw=true" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
