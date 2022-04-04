@@ -6,12 +6,11 @@
 <img src="https://github.com/Sacsam005/Sacsam005/blob/main/profile.gif?raw=true" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
    <ul style="display: flex; float: right; list-style-type: square;">
-      <br>
 <li>🔭 I’m currently learning everything 🧑🏻‍💻</li>
 <li>🌱 Growing mentally, technically, growing old too, but yes growing in general...</li>
 <li>👯 I’m looking to collaborate with other content creators</li>
 <li>🥅 Goals: Contribute more to Open Source projects/learn and learn and then learn</li>
-<li>🧑🏻‍💻 My projects are available at ![Sacsam005](https://sachinsamal005.netlify.app/) </li>
+<li>🧑🏻‍💻 My projects are available at https://sachinsamal005.netlify.app/</li>
 </ul>   
 </div>
 
