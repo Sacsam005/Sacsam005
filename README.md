@@ -7,15 +7,14 @@
 <img src="https://github.com/Sacsam005/Sacsam005/blob/main/profile.gif?raw=true" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
  <ul style="display: flex; float: left;">
-      
+  
+
 - 🧑🏻‍💻 Web Designer at [CHRISTUS Health](https://www.christushealth.org/)
-
+  
 - 🌱 Growing physically, mentally, technically, but yes growing in general...
-
-- 🔭 My projects are available [here](https://sachinsamal005.netlify.app/)
-      
-- 🔭 I’m currently learning everything
-      
+  
+- 🔭 My projects are available [here](https://sachinsamal005.netlify.app/)   
+  
 - 🥅 Goals: Learn C# w/.NET Framework
    
 </ul>   
