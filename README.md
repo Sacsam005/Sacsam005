@@ -6,17 +6,15 @@
 <div class='flex-box'>
 <img src="https://github.com/Sacsam005/Sacsam005/blob/main/profile.gif?raw=true" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
-<ul style="display: flex; float: left; list-style: none;">
   
-  - 🧑🏻‍💻 Web Designer at [CHRISTUS Health](https://www.christushealth.org/)
+- 🧑🏻‍💻 Web Designer at [CHRISTUS Health](https://www.christushealth.org/)
 
-  - 🌱 Growing physically, mentally, technically, but yes growing in general...
+- 🌱 Growing physically, mentally, technically, but yes growing in general...
 
-  - 🔭 My projects are available [here](https://sachinsamal005.netlify.app/) 
+- 🔭 My projects are available [here](https://sachinsamal005.netlify.app/) 
 
-  - 🥅 Goals: Learn C# w/.NET Framework
+- 🥅 Goals: Learn C# w/.NET Framework
    
-</ul>   
 </div>
 
 [![Visits Badge](https://badges.pufler.dev/visits/Sacsam005/Sacsam005)](https://sachinsamal005.netlify.app/)
