@@ -10,7 +10,7 @@
       
 - 🧑🏻‍💻 Web Designer at [CHRISTUS Health](https://www.christushealth.org/)
 
-- 🌱 Growing mentally, technically, growing old too, but yes growing in general...
+- 🌱 Growing physically, mentally, technically, but yes growing in general...
 
 - 💬 My projects are available [Here](https://sachinsamal005.netlify.app/)
       
