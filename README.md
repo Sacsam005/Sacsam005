@@ -2,15 +2,22 @@
 <p align='center'><img src ='https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png' width='150' height='150'></p>
 
 <h2 align="center">I'm a Front-end developer/Engineer. I'm passionate towards FED !!!</h2>
+
 <div class='flex-box'>
 <img src="https://github.com/Sacsam005/Sacsam005/blob/main/profile.gif?raw=true" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
-   <ul style="display: flex; float: right; list-style-type: square;">
-<li>🔭 I’m currently learning everything 🧑🏻‍💻</li>
-<li>🌱 Growing mentally, technically, growing old too, but yes growing in general...</li>
-<li>👯 I’m looking to collaborate with other content creators</li>
-<li>🥅 Goals: Contribute more to Open Source projects/learn and learn and then learn</li>
-<li>🧑🏻‍💻 My projects are available at https://sachinsamal005.netlify.app/</li>
+ <ul style="display: flex; float: right; list-style-type: square;">
+      
+- 🧑🏻‍💻 Web Designer at [CHRISTUS Health](https://www.christushealth.org/)
+
+- 🌱 Growing mentally, technically, growing old too, but yes growing in general...
+
+- 💬 My projects are available [Here](https://sachinsamal005.netlify.app/)
+      
+- 🔭 I’m currently learning everything
+      
+- 🥅 Goals: Learn C# w/.NET Framework
+   
 </ul>   
 </div>
 
