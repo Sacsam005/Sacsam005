@@ -11,7 +11,7 @@
 
 - 🌱 Growing physically, mentally, technically, but yes growing in general...
 
-- 🔭 My projects are available [here](https://sachinsamal005.netlify.app/) 
+- 🔭 My projects are available [here](https://sachinsamal005.netlify.app/project.html) 
 
 - 🥅 Goals: Learn C# w/.NET Framework
    
