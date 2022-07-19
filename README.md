@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [How much JavaScript should I learn before jumping into ReactJS?](https://shachinmagar120sm.wixsite.com/codingproficiency/post/javascript-to-reactjs)
 - [5 Steps to Detox Your Mind](https://shachinmagar120sm.wixsite.com/codingproficiency/post/5-steps-to-detox-your-mind)
-- [Eating Mindfully - Where Body &amp; Soul Connect](https://shachinmagar120sm.wixsite.com/codingproficiency/post/eating-mindfully-where-body-soul-connect)
-- [A 7-Minute Mindfulness Practice to Shift Out of “Doing” Mode](https://shachinmagar120sm.wixsite.com/codingproficiency/post/a-7-minute-mindfulness-practice-to-shift-out-of-doing-mode)
+- [Eating Mindfully - Where Body &amp;#38; Soul Connect](https://shachinmagar120sm.wixsite.com/codingproficiency/post/eating-mindfully-where-body-soul-connect)
+- [A 7-Minute Mindfulness Practice to Shift Out of &amp;#8220;Doing&amp;#8221; Mode](https://shachinmagar120sm.wixsite.com/codingproficiency/post/a-7-minute-mindfulness-practice-to-shift-out-of-doing-mode)
 - [How Shopping Mindfully Has Changed My Life](https://shachinmagar120sm.wixsite.com/codingproficiency/post/how-shopping-mindfully-has-changed-my-life)
 <!-- BLOG-POST-LIST:END -->
 
