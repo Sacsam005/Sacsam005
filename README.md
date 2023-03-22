@@ -4,6 +4,7 @@
 
  <kbd> <br> <a href='https://sachinsamal.netlify.app'>Portfolio </a> <br> </kbd>
 
+
 ### Latest Blog posts <a href="https://opensource.com/users/sacsam005"><img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" width="20"></a>
 
 - [My practical advice for new programmers](https://opensource.com/article/22/8/coding-advice-new-programmers)
@@ -68,9 +69,5 @@
 
 </details>
  
-<h3>Keep Supporting 🤜🏻🤛🏻</h3>
-<h3>Snake eating contribution graph 🐍 </h3>
-<img src='https://github.com/Sacsam005/Sacsam005/blob/output/github-contribution-grid-snake.svg'>
-
 ---
-<h3>Thanks for your Support 🙏🏻</h3>
+<h3><h3>Keep Supporting 🤜🏻🤛🏻</h3>
