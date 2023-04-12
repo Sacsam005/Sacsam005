@@ -1,4 +1,4 @@
-<a href='https://sachinsamal.netlify.app'><img src ='https://sachinsamal.netlify.app/img/sachin-samal-logo.png'></a>
+<a href='https://sachinsamal.netlify.app'><img src ='https://sachinsamal005.netlify.app/img/sachin-samal-logo.png'></a>
 
 <h5>I am a web designer | developer with an experience in design, development, and implementation of strategic architectures of web and mobile applications at an enterprise level. I am an open-source enthusiast and contributor. I believe in exchange of knowledge of programming.</h5>
 
