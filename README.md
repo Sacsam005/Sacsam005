@@ -17,7 +17,7 @@
 
 <h3>Connect with me:</h3>
 <a href="https://opensource.com/users/sacsam005" target="blank">
-   <img src="https://pbs.twimg.com/profile_images/469124275572453376/8fd3035c_400x400.png" alt="sacsam005" height="40" width="40" />
+   <img src="https://opensource.com/themes/osdc/logo.svg" alt="sacsam005" height="40" />
 </a>
 <a href="https://codepen.io/sacsam005" target="blank">
    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111262.png" alt="Sachin Samal on Codepen" height="40" width="40" />
